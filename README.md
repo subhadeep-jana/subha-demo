@@ -1,2 +1,3 @@
 # subha-demo
-This is my private repository
+This is my First repository.
+Author - Subhadeep jana.
